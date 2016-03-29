@@ -5,6 +5,8 @@ import java.util.Date;
 public class Dat{
 	public static void main(String[] args) {
 		Date d = new Date();
+
+		
 		System.out.println(d);
 
 		Date myBirthDay = new Date(94,0,29);
